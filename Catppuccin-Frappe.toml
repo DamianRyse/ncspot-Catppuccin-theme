@@ -1,7 +1,7 @@
 # ncspot "Catppuccin Frappé" theme
 # 22. Oct 2024, Damian Ryse
 
-[theme] 
+[theme] #Catppuccin Frappé
 primary             = "#B5BFE2"
 secondary           = "#B5BFE2"
 title               = "#EF9F76"
@@ -15,5 +15,5 @@ error_bg            = "#A50000"
 statusbar           = "#232634"
 statusbar_progress  = "#BABBF1"
 statusbar_bg        = "#949CBB"
-# cmdline             = "#ca9ee6" # No effect?
+cmdline             = "#B5BFE2" # No effect?
 cmdline_bg          = "#414559"
