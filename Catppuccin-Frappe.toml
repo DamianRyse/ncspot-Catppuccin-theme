@@ -1,0 +1,19 @@
+# ncspot "Catppuccin Frappé" theme
+# 22. Oct 2024, Damian Ryse
+
+[theme] 
+primary             = "#B5BFE2"
+secondary           = "#B5BFE2"
+title               = "#EF9F76"
+playing             = "#EF9F76"
+playing_selected    = "#232634"
+# playing_bg        = "#181818" # Removed for transparent background
+highlight           = "#232634"
+highlight_bg        = "#FDD5CF"
+error               = "#FFE4E4"
+error_bg            = "#A50000"
+statusbar           = "#232634"
+statusbar_progress  = "#BABBF1"
+statusbar_bg        = "#949CBB"
+# cmdline             = "#ca9ee6" # No effect?
+cmdline_bg          = "#414559"
