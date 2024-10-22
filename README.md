@@ -7,4 +7,4 @@ Copy & paste the content of your favored flavor into `~/.config/ncspot/config.to
 ## Screenshots
 **Frappé**
 
-![](https://i.ibb.co/LdBdysP/image.png)
+![](https://i.ibb.co/TMJMGNT/image.png)
